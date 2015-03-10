@@ -1,10 +1,10 @@
 {
-  "name": "issue_jabil",
+  "name": "jabil-issue_jabil",
   "version": "0.1.0",
   "author": "sillgen",
   "summary": "Configures SSHD to Jabil Standards",
   "license": "Apache 2.0",
-  "source": "",
+  "source": "https://bitbucket.org/lgbarn/issue_jabil",
   "project_page": null,
   "issues_url": null,
   "dependencies": [
