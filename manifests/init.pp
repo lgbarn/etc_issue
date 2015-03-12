@@ -38,7 +38,7 @@
 class etc_issue {
   file { '/etc/issue':
     ensure           => 'present',
-    source           => 'puppet:///modules/issue_jabil/issue',
+    source           => 'puppet:///modules/etc_issue/issue',
     owner            => 'root',
     group            => 'root',
     mode             => '0644',
