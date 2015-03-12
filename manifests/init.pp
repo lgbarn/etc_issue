@@ -35,7 +35,7 @@
 #
 # Copyright 2014 Jabil, unless otherwise noted.
 #
-class issue_jabil {
+class etc_issue {
   file { '/etc/issue':
     ensure           => 'present',
     source           => 'puppet:///modules/issue_jabil/issue',
