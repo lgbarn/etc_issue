@@ -1,10 +1,10 @@
 {
-  "name": "jabil-issue_jabil",
+  "name": "jabil-etc_issue",
   "version": "0.1.0",
   "author": "sillgen",
-  "summary": "Configures SSHD to Jabil Standards",
+  "summary": "Configures /etc/issue to Jabil Standards",
   "license": "Apache 2.0",
-  "source": "https://bitbucket.org/lgbarn/issue_jabil",
+  "source": "https://bitbucket.org/lgbarn/etc_issue",
   "project_page": null,
   "issues_url": null,
   "dependencies": [
